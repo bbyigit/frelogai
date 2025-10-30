@@ -48,12 +48,12 @@ export default function Home() {
     <main className="min-h-screen bg-gradient-to-b from-black to-gray-900 text-white flex flex-col items-center justify-center p-6">
       <div className="max-w-3xl text-center mb-10">
         <img src="/logo.png" alt="FRELOG AI" className="mx-auto mb-6 h-16 w-auto" />
-        <h1 className="text-5xl font-bold mb-4 tracking-wide">FRELOG AI</h1>
+        <h1 className="text-5xl font-bold mb-4 tracking-wide">FREELOG AI</h1>
         <p className="opacity-80 mb-8 text-lg">
           Akıllı Taşıma Sistemleri • Rail &amp; Road • Canlı Takip • Saha IoT • Harita Entegrasyonu
         </p>
         <a
-          href="mailto:info@frelogai.com"
+          href="mailto:info@freelogai.com"
           className="inline-block rounded-xl px-8 py-3 bg-white text-black font-semibold hover:opacity-90 transition"
         >
           Bize Ulaşın
